@@ -19,3 +19,9 @@ This repository contains my first-semester project for the **Introduction to Mec
 2. Upload the `.ino` code.
 3. Open the Arduino Serial Monitor (Baud rate: 9600).
 4. Send coordinates in the format `x,y` (e.g., `36,0` or `15,15`) and press Enter.
+
+<img width="1542" height="2048" alt="project_photo1" src="https://github.com/user-attachments/assets/04949ff7-e7e6-4905-b3bd-56ecb89bbdd7" />
+
+<img width="1542" height="2047" alt="project_photo2" src="https://github.com/user-attachments/assets/66bc18f7-ec7b-4fc6-8c56-6d79962087d1" />
+
+<img width="588" height="522" alt="project_photo3" src="https://github.com/user-attachments/assets/14e886e7-d83a-4576-83c5-dd96696be3e5" />
